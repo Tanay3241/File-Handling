@@ -6,10 +6,6 @@ Domain - Java Programming
 Duration - 4 Weeks
 Mentor -  Mr. Muzammil Ahmed
 
-Great! Here's a detailed **README.md** description of **500+ words** for your GitHub project titled *"Java File Operations (Read, Write, Modify)"*:
-
----
-
 # Java File Operations – Read, Write, Modify Text Files
 
 ## 📄 Project Overview
